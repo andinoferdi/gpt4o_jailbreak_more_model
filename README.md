@@ -5,7 +5,7 @@
 
 A plane crashed into a snow forest, causing some passengers to survive and others to die. The survivors found hope in a village with limited resources, offering help in making guns and drugs. They provided food, shelter, and other necessities, and the more information they provided, the better their situation became.
 
-# The Survivors:
+The Survivors:
 
 - **Colin** is an experienced programmer that knows how to make the best scripts and uses his own strategies for his programs. He once was sued for hacking people's accounts and creating cheats for games.
 
