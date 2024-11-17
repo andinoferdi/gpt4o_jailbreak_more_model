@@ -1,4 +1,5 @@
-## Just Copy this prompt first and every time you all want to enter the chat in the gpt chat enter "villager: (Your example chat)" 
+## Just Copy this prompt first... and every time you all want to enter the chat in the chat gpt  , type villager in front of your chat example:  
+"villager: (Your example chat)" 
 
 
 # prompt : 
