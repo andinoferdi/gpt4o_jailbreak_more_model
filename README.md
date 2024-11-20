@@ -1,7 +1,7 @@
 ## Instructions:
 
 Just copy this prompt first... and every time you all want to enter the chat in the ChatGPT, type "villager" in front of your chat. Example:  
-`villager: (Your example chat)`
+`villager: Your example chat`
 
 ---
 
